@@ -53,4 +53,4 @@ The analysis focuses on comparing the real estate market between 2020 (an intere
 
 ## Author
 
-Project carried out as part of a data analysis on French land values.
+Project carried out as part of a data analysis on French land values school project.
