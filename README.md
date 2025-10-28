@@ -26,6 +26,20 @@ The analysis focuses on comparing the real estate market between 2020 (an intere
   - Interactive maps (Folium) showing average property values by region.
   - Scatter plots for property value distributions over the year.
 
+## Visualizations
+
+Below are some key visualizations from the analysis:
+
+![Visualization 1](Vizu%201.png)
+
+![Visualization 2](Vizu%202.png)
+
+![Visualization 3](Vizu%203.png)
+
+![Visualization 4](Vizu%204.png)
+
+![Visualization 5](Vizu%205.png)
+
 ## Data Used
 
 - `ValeursFoncieres-2020.txt`: Real estate transactions for 2020
